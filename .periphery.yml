@@ -1,0 +1,7 @@
+schemes:
+- CurrencyConvertor
+targets:
+- CurrencyConvertor
+- CurrencyConvertorTests
+- CurrencyConvertorUITests
+workspace: CurrencyConvertor.xcworkspace

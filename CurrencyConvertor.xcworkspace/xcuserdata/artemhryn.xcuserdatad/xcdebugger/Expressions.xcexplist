@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AddCurrencyViewController.currenciesTableViewManager(_:didSelectCurrency:):AddCurrencyViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ConvertorViewTableViewManager.tableView(_:numberOfRowsInSection:):ConvertorViewTableViewManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "model?.currencyCells.count">
+            </PersistentString>
+            <PersistentString
+               value = "cell">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CustomSegmentedControl.updateSelection():CustomSegmentedControl.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedButton.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "self?.buttons[0].isSelected">
+            </PersistentString>
+            <PersistentString
+               value = "selectedButton.snp.leading">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #4 in CurrencyConvertorStackViewManager.reloadData(oldValue:):CurrencyConvertorStackViewManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.stackView?.arrangedSubviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CurrencyTableViewCell.updateUI():CurrencyTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Double(data.currencyTextFieldPlaceholder)">
+            </PersistentString>
+            <PersistentString
+               value = "Double(currencyTextField.text ?? &quot;&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "isEditing">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomSegmentedControl.layoutSubviews():CustomSegmentedControl.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "subviews">
+            </PersistentString>
+            <PersistentString
+               value = "subviews[2].layer.backgroundColor = UIColor.blue.cgColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomSegmentedControl.updateView():CustomSegmentedControl.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bounds">
+            </PersistentString>
+            <PersistentString
+               value = "frame.width">
+            </PersistentString>
+            <PersistentString
+               value = "frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "specialized closure #2 in ConvertorViewTableViewManager.reloadTableViewData(oldValue:):ConvertorViewTableViewManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "oldData.currencyCells.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ConvertorViewTableViewManager.reloadTableViewData(oldValue:):ConvertorViewTableViewManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.loadView():MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationController!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomSegmentedControl.buttonAction(sender:):CustomSegmentedControl.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "buttons[1].attributedTitle(for: .selected)">
+            </PersistentString>
+            <PersistentString
+               value = "buttons[1].isSelected">
+            </PersistentString>
+            <PersistentString
+               value = "buttons[0].isSelected">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "specialized closure #3 in ConvertorViewTableViewManager.reloadTableViewData(oldValue:):ConvertorViewTableViewManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "convertCellModel(from: cellData)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in variable initialization expression of BackgroundView.thirdEllipse:BackgroundView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UIScreen.main.bounds.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
