@@ -1,0 +1,6 @@
+framework module Pods_CurrencyConvertor_CurrencyConvertorUITests {
+  umbrella header "Pods-CurrencyConvertor-CurrencyConvertorUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
